@@ -1,6 +1,6 @@
 {
-  "name": "verification-shipjs-897",
-  "version": "1.0.0",
+  "name": "@tyankatsu0105/verification-shipjs-897",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -13,5 +13,11 @@
   "bugs": {
     "url": "https://github.com/tyankatsu0105/verification-shipjs-897/issues"
   },
-  "homepage": "https://github.com/tyankatsu0105/verification-shipjs-897#readme"
+  "homepage": "https://github.com/tyankatsu0105/verification-shipjs-897#readme",
+  "devDependencies": {
+    "shipjs": "0.20.0"
+  },
+  "scripts": {
+    "release": "shipjs prepare"
+  }
 }
