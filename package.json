@@ -1,0 +1,17 @@
+{
+  "name": "verification-shipjs-897",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyankatsu0105/verification-shipjs-897.git"
+  },
+  "keywords": [],
+  "author": "tyankatsu <frips.ryilsufupe+dev@gmail.com> (https://tyankatsu.netlify.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyankatsu0105/verification-shipjs-897/issues"
+  },
+  "homepage": "https://github.com/tyankatsu0105/verification-shipjs-897#readme"
+}
